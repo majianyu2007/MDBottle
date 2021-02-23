@@ -288,6 +288,6 @@ function getmore() {
     }
 }
 setTimeout(function() {
-    console.log('\n %c =3= OBottle  %c @SomeBottle 2018.10.20 \n\n', 'color:#484848;background:#ffffff;padding:5px 0;', 'color:#ffffff;background:#484848;padding:5px 0;');
+    console.log('\n %c =3= OBottle  %c @MaJianyu 2021.02.23 \n\n', 'color:#484848;background:#ffffff;padding:5px 0;', 'color:#ffffff;background:#484848;padding:5px 0;');
 },
 1000);
